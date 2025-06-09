@@ -1,0 +1,10 @@
+gallery/
+*.jar
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ttf
+*.otf
